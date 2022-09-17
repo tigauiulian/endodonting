@@ -1,0 +1,134 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+.top-container {
+  background-color: #DCD7C9;
+  width: 100%;
+  height: 200px;
+  margin: auto;
+  margin-top: 0;
+}
+
+.mid-container {
+  background-color: #EEEEEE;
+  width: 100%;
+  height: 600px;
+  margin: auto;
+}
+
+.low-container {
+  background-color: #DCD7C9;
+  width: 100%;
+  height: 200px;
+  margin: auto;
+}
+
+.logo {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 50px;
+  top: 30px;
+}
+
+.titlu {
+  margin: 0;
+  font-family: 'Cantata One', serif;
+  color: #2C3639;
+  padding-top: 50px;
+}
+
+.nume {
+  padding-top: 20px;
+  font-family: 'Qwigley', cursive;
+  font-size: 25px;
+}
+
+hr {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.social-media {
+  width: 30px;
+  height: 30px;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 150px;
+  padding: 0;
+}
+
+.social-media:hover {
+  width: 40px;
+  height: 40px;
+}
+
+.poza-main {
+  height: auto;
+  width: auto;
+  border-radius: 100%;
+  padding-top: 50px;
+}
+
+h3 {
+  display: inline;
+  color: #F1F1F1;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+h3:hover {
+  color: #E2DCC8
+}
+
+.meniu-superior {
+  background-color: #100F0F;
+  text-align: left;
+  padding-left: 30px;
+  position: fixed;
+  width: 100%;
+}
+
+.despre-mine-png {
+  width: 50px;
+  height: 50px;
+  float: left;
+  padding: 30px;
+  margin-right: 50px;
+}
+
+.despre {
+  width: 40%;
+  height: 20px;
+  position: absolute;
+  top: 300px;
+}
+
+.p-eu {
+  width: 100%;
+  text-align: left;
+  font-family: 'Cantata One', serif;
+}
+
+.despre-colab {
+  width: 30%;
+  height: 20px;
+  position: absolute;
+  top: 600px;
+  right: 50px;
+}
+
+.colaborare-png {
+  width: 50px;
+  height: 50px;
+  float: right;
+  padding: 30px;
+  margin-right: 50px;
+}
+
+.p-colab {
+  font-family: 'Cantata One', serif;
+  text-align: right; 
+}
